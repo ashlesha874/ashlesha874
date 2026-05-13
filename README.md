@@ -73,7 +73,7 @@ Currently exploring cross-species chimeric read detection, tumour microenvironme
 
 ## 📫 Connect
 
-✉️ ashlesha543@gmail.com  |  💼 [LinkedIn](https://linkedin.com)  |  🔬 ACTREC, Tata Memorial Centre
+✉️ ashlesha543@gmail.com  |  💼 [LinkedIn](https://www.linkedin.com/in/ashlesha-pande-161ab3163/)  |  🔬 ACTREC, Tata Memorial Centre
 
 ---
 

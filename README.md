@@ -17,7 +17,6 @@ Currently exploring cross-species chimeric read detection, tumour microenvironme
 - WGS: chimeric region detection, cross-species (human–mouse) concatemer analysis, phylogenetic correlation
 - WTS: differential expression (DESeq2/edgeR), GSEA pathway enrichment, gene fusion detection
 - cfDNA: genomic instability, nuclear vs extracellular DNA comparison
-- Biomedical NLP: named-entity recognition on PubMed abstracts (scispaCy)
 
 ---
 
